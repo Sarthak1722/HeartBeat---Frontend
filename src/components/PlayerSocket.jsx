@@ -85,7 +85,7 @@ export default function PlayerSocket() {
 
   return (
     <div style={{ border: "1px solid #ddd", padding: 16, width: 420, borderRadius: 8 }}>
-      <h3>heartBeat — Real Audio</h3>
+      <h3>heartBeat</h3>
 
       <audio
         ref={audioRef}
