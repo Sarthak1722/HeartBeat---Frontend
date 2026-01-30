@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import socket from "../socket";
-import Chat from "./Chat";
+import Chat from "./chat";
 
 const ROOM_ID = "room-123";
 const AUDIO_URL = "/audio/Lovin_U.mp3";
